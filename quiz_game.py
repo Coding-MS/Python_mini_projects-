@@ -38,7 +38,7 @@ else:
 answer = input ("What are Force is responsible keeping planets in orbit? ").lower()
 if answer == "gravity ":
     print ("Correct")
-    print += 1
+    score += 3
 else: 
     print ("Answer is Incorrect!")
     score -= 1 
